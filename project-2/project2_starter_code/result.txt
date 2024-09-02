@@ -1,0 +1,7 @@
+1.How many times the objects were mixed successfully in 10 trials if you choose
+action randomly and how long they took?
+ans: I saw seven successful mixes for random action over ten trails in 6.3 seconds.  
+
+2.How many times the objects were mixed successfully in 10 trials if you choose
+action based on Q-learning and how long they took?
+ans: I saw 9 trails that mixed successfully for Q-learning, and it took 6.3 seconds. 
